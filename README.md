@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiselPalacioss
 - 👀 I’m interested in web and software development.
-- 🌱 I’m currently learning JAVA and Python.
+- 🌱 I’m currently learning full stack development JAVA.
 - 📫 How to reach me:
 - linkedin: https://www.linkedin.com/in/giselpalacios/
 - e-mail: gisel.palacios.89@gmail.com
